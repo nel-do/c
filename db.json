@@ -6,6 +6,7 @@
     "suburb": "Dee Why",
     "email_address": "neil.snowdon@vonage.com",
     "firstname": "Neil",
+    "lastname": "Snowdon",
     "ordernumber": "1234asdf"
   },
   {
@@ -14,6 +15,7 @@
     "suburb": "Cromer",
     "email_address": "mark.smith@vonage.com",
     "firstname": "Mark",
+    "lastname": "Smith",
     "ordernumber": "1256erfd"
   },
   {
@@ -21,7 +23,8 @@
     "address": "42. Big road.",
     "suburb": "Medowbank",
     "email_address": "raj.shah@vonage.com",
-    "firstname": "Raj",    
+    "firstname": "Raj",
+    "lastname": "Shah",
     "ordernumber": "1255hrii"
   }
   
