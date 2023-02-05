@@ -1,0 +1,26 @@
+{
+  "users": [
+  {
+    "msisdn": "61419597332",
+    "address": "106. Pittwater Road.",
+    "suburb": "Dee Why",
+    "email_address": "neil.snowdon@vonage.com",
+    "firstname": "Neil"	
+  },
+  {
+    "msisdn": "61419727831",
+    "address": "33. baker street.",
+    "suburb": "Cromer",
+    "email_address": "mark.smith@vonage.com",
+    "firstname": "Mark"	
+  },
+  {
+    "msisdn": "61408222011",
+    "address": "42. Big road.",
+    "suburb": "Medowbank",
+    "email_address": "raj.shah@vonage.com",
+    "firstname": "Raj"	
+  }
+  
+  ]
+}
